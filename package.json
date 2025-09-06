@@ -1,0 +1,1 @@
+{"name":"portfolio-chatbot-backend","version":"1.0.0","main":"api/chat.js","type":"commonjs","dependencies":{"node-fetch":"^2.6.7"}}
